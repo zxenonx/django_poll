@@ -1,0 +1,7 @@
+body {
+  background: url("images/django_rocket.webp") no-repeat;
+}
+
+li a {
+  color: green;
+}
